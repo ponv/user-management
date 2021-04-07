@@ -8,8 +8,8 @@
 	"group": {
 	   "title": "abc"
 	   
-	}
-	}
+  	 }
+   }
  ],
  "groups":[
    {
@@ -18,10 +18,13 @@
    "created" : "20-12-2020"
    }
  ],
+ "stats": {
  "globalState" : {
    "home": {
       "users":10,
 	  "groups":20 
    }
-   }
+ }
+ }
+ 
 }

@@ -17,5 +17,12 @@
    "title" :"abc",
    "created" : "20-12-2020"
    }
- ]
+ ],
+ "globalState" : {
+   "home": {
+      "users":10,
+	  "groups":20 
+   },
+   
+ }
 }

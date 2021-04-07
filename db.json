@@ -1,0 +1,19 @@
+{
+ "users": [
+    "_id":1,
+	"fullname":"val",
+	"email": "val@yahoo.com",
+	"registered": "20-12-2020",
+	"group": {
+	   "title": "abc"
+	   
+	}
+ ],
+ "groups":[
+   {
+   "_id" :1,
+   "title" :"abc",
+   "created" : "20-12-2020"
+   }
+ ]
+}
